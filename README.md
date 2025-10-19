@@ -34,25 +34,17 @@ Bilibili:[阑梦清川的b站主页](https://space.bilibili.com/1706001596?spm_i
 
 我创建的公开的ima知识库：
 
-[数学建模竞赛ima知识库，推荐！！](https://ima.qq.com/wiki/?shareId=96e057ed344b47f19643c9f7a7173772efd000d8909d7ec5c634a2c8b0edba76)
+[数学建模竞赛ima知识库，推荐！！](https://ima.qq.com/wiki/?shareId=96e057ed344b47f19643c9f7a7173772efd000d8909d7ec5c634a2c8b0edba76)      [计算机组成原理ima知识库](https://ima.qq.com/wiki/?shareId=ca90179e071de9fcfcdecbc55012b8127d655edfa6be8b7cceedc8e2c1743f78)
 
-[计算机组成原理ima知识库](https://ima.qq.com/wiki/?shareId=ca90179e071de9fcfcdecbc55012b8127d655edfa6be8b7cceedc8e2c1743f78)
-
-[大学生存指南，留给学弟学妹们](https://ima.qq.com/wiki/?shareId=bfd493b8fe6bc9604e5e8d276409bfe836171c62c9ef70dfb3471eda2a4c6a57)
-
-[计算机原理类相关书籍PDF](https://ima.qq.com/wiki/?shareId=1a05db62255511c8271815a5b7446430593e964002c27b6da167283662c11495)
+[大学生存指南，留给学弟学妹们](https://ima.qq.com/wiki/?shareId=bfd493b8fe6bc9604e5e8d276409bfe836171c62c9ef70dfb3471eda2a4c6a57)      [计算机原理类相关书籍PDF](https://ima.qq.com/wiki/?shareId=1a05db62255511c8271815a5b7446430593e964002c27b6da167283662c11495)
 
 :point_down:我的产品（付费）
 
-小报童专栏：[零基础入门计算机：大学经验沉淀和学习指南](https://xiaobot.net/p/qingchuan001?refer=fc70cb93-0cd5-455d-a865-ffd07f664ef1)
-
-付费社群：[阑梦清川的付费陪伴群](https://wx.zsxq.com/group/28888141541251)
+小报童专栏：[零基础入门计算机：大学经验沉淀和学习指南](https://xiaobot.net/p/qingchuan001?refer=fc70cb93-0cd5-455d-a865-ffd07f664ef1)      付费社群：[阑梦清川的付费陪伴群](https://wx.zsxq.com/group/28888141541251)
 
 :point_down:还在建设中（可私信我一起免费来玩）.....
 
-知识管理：[我的知识管理心得总结](https://wx.zsxq.com/group/15554454248842)
-
-编程圈子：[我的编程碎碎念](https://wx.zsxq.com/group/15554458825412)
+知识管理：[我的知识管理心得总结](https://wx.zsxq.com/group/15554454248842)      编程圈子：[我的编程碎碎念](https://wx.zsxq.com/group/15554458825412)
 
 x相关分享：[x上面有趣的，好玩的东西](https://wx.zsxq.com/group/48885581212258)
 

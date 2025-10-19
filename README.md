@@ -44,9 +44,7 @@ Bilibili:[阑梦清川的b站主页](https://space.bilibili.com/1706001596?spm_i
 
 :point_down:还在建设中（可私信我一起免费来玩）.....
 
-知识管理：[我的知识管理心得总结](https://wx.zsxq.com/group/15554454248842)      编程圈子：[我的编程碎碎念](https://wx.zsxq.com/group/15554458825412)
-
-x相关分享：[x上面有趣的，好玩的东西](https://wx.zsxq.com/group/48885581212258)
+知识管理：[我的知识管理心得总结](https://wx.zsxq.com/group/15554454248842)      编程圈子：[我的编程碎碎念](https://wx.zsxq.com/group/15554458825412)      x相关分享：[x上面有趣的，好玩的东西](https://wx.zsxq.com/group/48885581212258)
 
 有问题，都可以在公众号后台踢踢我鸭~~
 

@@ -22,25 +22,15 @@ Here are some ideas to get you started:
 
 :tada: 你可能感兴趣
 
-Gitee: [阑梦清川的Gitee主页](https://gitee.com/zhu-zhaoyu-666)
+Gitee: [阑梦清川的Gitee主页](https://gitee.com/zhu-zhaoyu-666)             CSDN：[阑梦清川的CSDN主页](https://blog.csdn.net/binhyun?type=blog)
 
-CSDN：[阑梦清川的CSDN主页](https://blog.csdn.net/binhyun?type=blog)
+Bilibili:[阑梦清川的b站主页](https://space.bilibili.com/1706001596?spm_id_from=333.1365.0.0)       即刻：[阑梦清川的即刻主页](https://okjk.co/kyq2cs)
 
-Bilibili:[阑梦清川的b站主页](https://space.bilibili.com/1706001596?spm_id_from=333.1365.0.0)
+知识星球：[阑梦清川的社群主页](https://wx.zsxq.com/group/28882558852421)      腾讯云：[阑梦清川的腾讯云社区主页](https://cloud.tencent.com/developer/user/11163219)
 
-即刻：[阑梦清川的即刻主页](https://okjk.co/kyq2cs)
+知乎：[阑梦清川的知乎主页](https://www.zhihu.com/people/73-47-71-30)      少数派：[阑梦清川的少数派主页](https://sspai.com/u/zhdyo2dv/updates)
 
-知识星球：[阑梦清川的社群主页](https://wx.zsxq.com/group/28882558852421)
-
-腾讯云：[阑梦清川的腾讯云社区主页](https://cloud.tencent.com/developer/user/11163219)
-
-知乎：[阑梦清川的知乎主页](https://www.zhihu.com/people/73-47-71-30)
-
-少数派：[阑梦清川的少数派主页](https://sspai.com/u/zhdyo2dv/updates)
-
-掘金：[阑梦清川的掘金社区主页](https://juejin.cn/user/2074107813576186)
-
-推特：[阑梦清川的x主页](https://x.com/zzy17813100102)
+掘金：[阑梦清川的掘金社区主页](https://juejin.cn/user/2074107813576186)      推特：[阑梦清川的x主页](https://x.com/zzy17813100102)
 
 我创建的公开的ima知识库：
 

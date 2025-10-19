@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好，我是阑梦清川 👋
 
 <!--
 **zzylanmengqingchuan/zzylanmengqingchuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+:fire: 个人介绍：05后数字原住民，计算机专业，阿里云专家博主，腾讯云创作之星，知识星球：阑梦清川的AI学习社群，主理人
+
+:+1: 我的微信公众号ID : 阑梦清川，我喜欢写作，可以来公众号看看我哇（公众号可以找到我的联系方式）
+
+:tada: 你可以通过下面了解我
+
+我的Gitee:[我的Gitee账号]https://gitee.com/zhu-zhaoyu-666
